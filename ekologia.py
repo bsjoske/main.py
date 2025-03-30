@@ -1,7 +1,7 @@
 import telebot
 import random
 
-bot = telebot.TeleBot('7707953731:AAHWxvv8A_m-AqYlc5m6RLGNSbQ7b-w9_OU')
+bot = telebot.TeleBot('token')
 
 # Список эко-советов
 eco_tips = [
